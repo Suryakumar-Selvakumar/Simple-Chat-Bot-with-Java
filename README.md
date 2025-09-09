@@ -2,10 +2,6 @@
 
 A beginner-friendly Java project where I built a simple interactive chatbot step by step. 
 The bot can greet the user, guess their age, count numbers, and even quiz them on programming basics.  
- 
-## Description
-
-A simple chatbot that interacts with the user step by step.
 
 The project was implemented in stages:
 
