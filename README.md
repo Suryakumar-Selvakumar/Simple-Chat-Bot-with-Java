@@ -26,10 +26,9 @@ The project was implemented in stages:
 
 ## Demo
 
-<div align="center">
-  <img src="https://drive.google.com/file/d/1tgu0pRYYZR1SMJfOq8Uu5QUHR782k2KZ/view?usp=sharing" alt="Project demo"/>
-</div>
+<video width="1920" height="1080" align="center" src="https://github.com/user-attachments/assets/c75d15c3-23c4-48c0-a07a-fb76a452b88c"></video>
 
 ## Takeaway
 
 This project helped me practice breaking down a program into reusable methods and made me more comfortable with loops, conditionals, and user input handling in Java. I also learned how to keep a program interactive by continuously validating input until the correct response is given. Overall, this project was a fun way to apply basic control flow and arithmetic while building a program that feels conversational.
+
